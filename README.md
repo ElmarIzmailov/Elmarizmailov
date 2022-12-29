@@ -6,5 +6,10 @@
 - 📝 I love to paint and play game Pubg or Csgo
 - 📕 I like to read books in my free time
 - ✈️ I love writing an code for Telegram bot's
-- 
+
+### My Knowledge
+### Python
+### Kotling
+### Swift
+### Data base
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elmarizmailov)
