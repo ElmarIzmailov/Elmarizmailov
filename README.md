@@ -9,4 +9,4 @@
 
 ### My Knowledge
 ### Python Kotling Swift Data base
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elmarizmailov)
+
