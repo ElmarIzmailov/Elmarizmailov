@@ -8,8 +8,5 @@
 - ✈️ I love writing an code for Telegram bot's
 
 ### My Knowledge
-### Python
-### Kotling
-### Swift
-### Data base
+### Python Kotling Swift Data base
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elmarizmailov)
