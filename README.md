@@ -7,4 +7,4 @@
 - 📕 I like to read books in my free time
 - ✈️ I love writing an code for Telegram bot's
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elmarizmailov=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elmarizmailov)
