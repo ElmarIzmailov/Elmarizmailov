@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Elmar
 
-### I'm a Backend Developer, and teacher in IT center
+### I'm a Backend Developer, and mentor in IT center
 - 💪 I like to write code
 - 🔥 I love to create something new
 - 📝 I love to paint and play game Pubg or Csgo
