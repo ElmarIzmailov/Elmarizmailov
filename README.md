@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Elmar
 
-### I'm a Backend Developer, and mentor in IT center
+### I'm a Backend Developer, and mentor in IT park
+### CRUD
+
 - 💪 I like to write code
 - 🔥 I love to create something new
 - 📝 I love to paint and play game Pubg or Csgo
@@ -8,5 +10,12 @@
 - ✈️ I love writing an code for Telegram bot's
 
 ### My Knowledge
-### Python Kotling Swift Data base
-
+### Python core
+- Oop
+- Django
+- Django rest framework, drf, api
+- Telegram bot
+- Mysql
+- Sqlite
+- Postgresql
+- Git
