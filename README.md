@@ -9,7 +9,7 @@
 - 📕 I like to read books in my free time
 - ✈️ I love writing an code for Telegram bot's
 
-### My Knowledge
+### Skills
 ### Python core
 - Oop
 - Django
