@@ -14,6 +14,7 @@
 - Oop
 - Django
 - Django rest framework, drf, api
+- Docker
 - Telegram bot
 - Mysql
 - Sqlite
