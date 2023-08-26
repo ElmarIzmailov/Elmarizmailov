@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm Elmar
 
-### I'm a Backend Developer, and mentor in IT park
-### CRUD
-
 - 💪 I like to write code
 - 🔥 I love to create something new
 - 📝 I love to paint and play game Pubg or Csgo
